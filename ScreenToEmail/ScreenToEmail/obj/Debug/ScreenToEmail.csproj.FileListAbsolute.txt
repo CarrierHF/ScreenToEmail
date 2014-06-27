@@ -1,0 +1,5 @@
+T:\C# Projects\Help\ScreenToEmail\ScreenToEmail\ScreenToEmail\bin\Debug\ScreenToEmail.dll
+T:\C# Projects\Help\ScreenToEmail\ScreenToEmail\ScreenToEmail\bin\Debug\ScreenToEmail.pdb
+T:\C# Projects\Help\ScreenToEmail\ScreenToEmail\ScreenToEmail\obj\Debug\ScreenToEmail.csprojResolveAssemblyReference.cache
+T:\C# Projects\Help\ScreenToEmail\ScreenToEmail\ScreenToEmail\obj\Debug\ScreenToEmail.dll
+T:\C# Projects\Help\ScreenToEmail\ScreenToEmail\ScreenToEmail\obj\Debug\ScreenToEmail.pdb
